@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a02b0df30dfff4194f81325f947a7c, type: 3}
+  m_Name: Dialog1DalamRumah
+  m_EditorClassIdentifier: 
+  dialogEntries:
+  - characterName: 'Deraham:'
+    dialog: '"Sayang, sudahkah kamu bersiap untuk malam ini?"'
+  - characterName: 'Jerimai:'
+    dialog: '"Belum, Bang. Aku masih harus menyiapkan beberapa hal lagi."'
+  - characterName: Deraham
+    dialog: '"Biar lebih nyaman, mungkin kamu bisa memakai sedikit parfum."'
+  - characterName: Jerimai
+    dialog: '"Memangnya aku biasanya tidak nyaman, Bang?"'
+  - characterName: Deraham
+    dialog: '"Di mataku sih, kamu selalu nyaman."'
+  - characterName: Jerimai
+    dialog: '"Ya sudah, aku akan bersiap sebentar lagi."'
+  - characterName: Istri Kik Cuan
+    dialog: '"Jerimai, sudahkah kamu siap? Kita akan pergi bersama malam ini."'
+  - characterName: Jerimai
+    dialog: '"Mengapa semua orang menyuruhku bersiap?"'
+  - characterName: Istri Kik Cuan
+    dialog: '"Ini malam penting, kita harus terlihat rapi."'
+  - characterName: Kik Cuan
+    dialog: '"Jerimai, kita akan menonton pertunjukan di Simpang Tiga malam ini.
+      Siapkan diri sekarang agar nanti tidak terburu-buru."'
+  - characterName: Jerimai
+    dialog: '"Oh, jadi itu sebabnya?. Aku akan bersiap sebentar lagi."'
+  - characterName: Deraham
+    dialog: '"Baiklah Aku sama Ibu akan pergi duluan, ya."'
+  - characterName: Jerimai
+    dialog: '"Iya, Bang. Aku akan menyusul."'
+  - characterName: Jerimai
+    dialog: '"Abang! Jangan terlalu khawatir, aku akan menyusul secepatnya. Hati-Hati
+      dijalan" '

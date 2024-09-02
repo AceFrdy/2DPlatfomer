@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/MainMenu.unity
+    guid: 1c261bdf61701ad42a8e7082f0699258
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/QuitScene.unity
+    guid: 817b12c7415da3a44a8c80a2496a8547
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Level1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Level2.unity
+    guid: 9b34d26ed9c1ed642bf71b0a25e667ca
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Level3.unity
+    guid: 2ed5d0c010cf3504ba9e4c28b8516dd9
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/BossFight.unity
+    guid: 06ff63bfd189def4f8c67911124426a2
+  - enabled: 1
+    path: Assets/Scenes/SceneRumah/DalamRumah.unity
+    guid: 0bf92b5b677cba34c84b03d3b004481a
+  - enabled: 1
+    path: Assets/Scenes/SceneRumah/Desa.unity
+    guid: ea3688c2f7ed56046a3c3d4c3f378e22
+  - enabled: 1
+    path: Assets/Scenes/SceneRumah/Hutan1.unity
+    guid: 2e88b0eaa486a8d4db587d6a5c9c8c33
+  - enabled: 1
+    path: Assets/Scenes/SceneRumah/Hutan.unity
+    guid: b9a0f82f2ce82cc4f93ea1a068a6a5c1
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/LimpaiCave.unity
+    guid: d8932699bc9e62443acf170c045ba90e
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/UntilFinish.unity
+    guid: 26a0ee031d6c2394d91497dbc81fa271
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Epilog.unity
+    guid: 7a0123f661716894d9c3bb551aeec3db
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Tamat.unity
+    guid: 09ba3efa15ea18a47812bb8cec9dd76d
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Intro1.unity
+    guid: 3be800ec7c2678f4cbeea816eb6d8c77
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Intro2.unity
+    guid: d055e2aeaca237c4daab657c264ed4d7
+  - enabled: 1
+    path: Assets/Scenes/IsiUtama/Intro3.unity
+    guid: 9709c95c889b84340a18a139f6b9b172
+  m_configObjects: {}

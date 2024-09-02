@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a02b0df30dfff4194f81325f947a7c, type: 3}
+  m_Name: DialogEndLimpai
+  m_EditorClassIdentifier: 
+  dialogEntries:
+  - characterName: Kik Cuan
+    dialog: '"Hahaha... Sudah kubilang kau akan mati ditanganku!!"'
+  - characterName: Kik Cuan
+    dialog: '"Dan aku akan bersumpah!!!. sampai ke anak cucu ku nanti, ini bapak
+      lawan bapak, anak lawan anak..."'
+  - characterName: Kik Cuan
+    dialog: '"Baiklah... Ini untuk Anak ku yang sudah kau bunuh itu!"'
+  - characterName: Kik Cuan
+    dialog: '"MATILAH!!!"'
+  - characterName: Kik Cuan
+    dialog: '"Anakku, dendammu telah terbalaskan. Tapi harga yang harus kita bayar
+      sangatlah tinggi"'

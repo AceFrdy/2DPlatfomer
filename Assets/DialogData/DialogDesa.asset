@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a02b0df30dfff4194f81325f947a7c, type: 3}
+  m_Name: DialogDesa
+  m_EditorClassIdentifier: 
+  dialogEntries:
+  - characterName: Kik Cuan
+    dialog: '"Di mana Jerimai?"'
+  - characterName: istri Kik Cuan
+    dialog: '"Bukannya dia bersamamu?"'
+  - characterName: kik Cuan
+    dialog: '"Dia bilang akan menyusul, tapi aku menemukan selendangnya di hutan.
+      Bukan kah ini milik Jerimai?"'
+  - characterName: Deraham
+    dialog: '"Jerimai! Jerimai! Apa yang terjadi padanya? Bagaimana ini bisa terjadi?
+      Siapa yang melakukan ini? Jerimai, di mana kamu?"'
+  - characterName: Istri Kik Cuan
+    dialog: '"Tenang dulu, Nak. Jerimai pasti akan kembali. Kita bersabar dulu untuk
+      sekarang."'
+  - characterName: Istri Kik Cuan
+    dialog: '"Tenanglah, biarkan ayahmu yang mencarinya. Kita sebaiknya sabar untuk
+      menunggu kabar."'
+  - characterName: Deraham
+    dialog: '"Aku Juga mau ikut untuk mencari Jerimai Pak, biarkan ikut ikut!"'
+  - characterName: Kik Cuan
+    dialog: '"Gak, Aku akan mencarinya bersama warga. kamu pulanglah Deraham, aku
+      akan menemukan Jerimai secepatnya."'
+  - characterName: Kik Cuan
+    dialog: '"Sebaiknya Kamu Pulang saja untuk jagain Ibu,"'
+  - characterName: Deraham
+    dialog: '"Tapi kan! baiklah, kalo gitu ayo bu kita pulang dulu"'
