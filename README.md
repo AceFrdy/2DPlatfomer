@@ -15,3 +15,11 @@ The project consists of several key folders and files:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/username/repository.git
+
+2. Open the project in Unity Hub or directly through Unity Editor (Noted this version using 2022.3.16)
+
+3. Unity will automatically regenerate the Library/, Logs/, and other necessary files to run the project.
+
+Development and Build
+To develop the game, make sure all scripts, assets, and settings are placed in the appropriate folders within the Assets/ directory.
+To build the game, select your desired platform in File > Build Settings and click Build.
